@@ -1,2 +1,2 @@
-## my app
+## MyApp
 my fist app
